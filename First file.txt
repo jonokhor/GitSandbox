@@ -1,4 +1,8 @@
 Edited file
 v2 edited.
 Edit more stuff.
+<<<<<<< HEAD
 Do it man!
+=======
+Conflicting edit.
+>>>>>>> Conflicting edit.
